@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3ddef7&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3ddef7&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Leonardo;I'm+20+years+old;I'm+from+Brazil;I+Graduated+Computer+engineering;Be+Welcome!:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3ddef7&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Flynnzito;I'm+20+years+old;I'm+from+Brazil;I+Graduated+Computer+engineering;Be+Welcome!:%29)](https://git.io/typing-svg)
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=flynnzin&bg_color=0d1117&color=3569b1&line=3569b1&point=3d35b1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -22,7 +22,7 @@
  <a href="https://www.youtube.com/@SnoowBill" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/SnoowBill" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/warn-nuis" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:leonardofts593@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:contato@neonhost.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
  </div>
  
  ### Main skills:
